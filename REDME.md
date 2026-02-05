@@ -208,7 +208,7 @@ Authorization: Bearer <JWT_TOKEN>
 🧪 How to Run the Project:
 
 Clone the repository
-git clone : 
+git clone : https://github.com/chetanamahant/issuetracker
 
 
 
